@@ -13,6 +13,8 @@ Through utilizing PySpark and Spark SQL on Google Colab, this project determines
 
 <ins>Processes and Technologies</ins>
 -----
+
+
 ![question](Images/question_1.png)
 ![question](Images/question_2.png)
 ![question](Images/question_3.png)

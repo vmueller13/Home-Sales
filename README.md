@@ -13,28 +13,14 @@ Through utilizing PySpark and Spark SQL on Google Colab, this project determines
 
 <ins>Processes and Technologies</ins>
 -----
-
-`# 3. What is the average price for a four bedroom house sold in each year rounded to two decimal places?
-sql_query = """
-SELECT
-    YEAR(date_built) AS year,
-    ROUND(AVG(price), 2) AS avg_price
-FROM
-    home_sales
-WHERE
-    bedrooms = 4
-GROUP BY
-    YEAR(date_built)
-ORDER BY
-    year
-"""
-
-result = spark.sql(sql_query)
-result.show()`
+![question](Images/question_1.png)
+![question](Images/question_2.png)
+![question](Images/question_3.png)
+![question](Images/question_4.png)
 
 
 <ins>Challenges</ins>
 -----
 
 
-After reviewing the StackOverflow, I did not run into any major challenges in this project.
+I did not run into any major challenges in this project.

@@ -1,4 +1,4 @@
-# Module 22 Challenge: Big Data with PySparkSQL
+# Big Data with PySparkSQL
 
 <ins>Project Overview</ins>
 -----
